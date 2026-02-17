@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/interview-bridge/static/css/main.78e71c17.css",
+    "main.js": "/interview-bridge/static/js/main.1e86d6dd.js",
+    "index.html": "/interview-bridge/index.html",
+    "main.78e71c17.css.map": "/interview-bridge/static/css/main.78e71c17.css.map",
+    "main.1e86d6dd.js.map": "/interview-bridge/static/js/main.1e86d6dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78e71c17.css",
+    "static/js/main.1e86d6dd.js"
+  ]
+}
